@@ -1,3 +1,5 @@
+// Codewars
+
 1. 7kyu ~ String matchup
 
 Given two arrays of strings, return the number of times each string of the second array appears in the first array.
@@ -28,4 +30,3 @@ E.g. Input: "aa", "bb" , "cc" => Output: "abcabc"
 
 Note: You can expect all of the inputs to be the same length.
 
-4. 8 kyu ~
